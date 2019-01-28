@@ -1,0 +1,3 @@
+A New Approach to Speaker-Room Equalization 
+- en måde at lave minimum fase på gennem opdeling af signalet, og derved lave filtre på hver båndstykke, opdelt i 8. Nedre bruger DWT, øvre bruger LPC. Filteret har problematikker, hvis de cascade kobles. 
+
